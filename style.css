@@ -32,7 +32,7 @@ section {
 }
 
 .conteiner {
-  border: solid 1px yellow;
+  border: solid 1px rgb(247, 247, 0);
   text-align: center;
   background-color: rgb(56, 61, 65);
   color: white;
